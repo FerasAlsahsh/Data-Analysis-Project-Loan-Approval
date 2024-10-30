@@ -1,4 +1,5 @@
 
+![Data Analysis Workspace]([./images/your_image_name.png](https://github.com/FerasAlsahsh/loan/blob/main/readme.png))
 ## Data Analysis Project
 This project provides a comprehensive data analysis process, focusing on multiple critical steps in data science, including importing essential libraries, data preprocessing, handling missing values, and exploring various data visualization techniques. Each section is designed to extract and highlight meaningful insights and trends within the dataset.
 # Project Structure
